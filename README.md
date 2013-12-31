@@ -14,7 +14,7 @@ Normal
 `code.snippet()`
 
 ```JS
-var fullCodeSnippet = infinity;
+var fullCodeSnippet = Infinity;
 // this is some javascript and whatnots
 console.log(fullCodeSnippet);
 ```
