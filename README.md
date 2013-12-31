@@ -7,9 +7,9 @@ git-test
 
 Normal
 
-*Bold*
+**Bold**
 
-**Italic**
+*Italic*
 
 `code.snippet()`
 
@@ -25,7 +25,7 @@ console.log(fullCodeSnippet);
 4. Ordered
 5. List
 
-**and**
+*and*
 
 * An
 * Unordered
